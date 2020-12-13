@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: '9.95'
+price: '4,95'
 title: Elephant
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
