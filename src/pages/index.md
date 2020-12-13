@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Paper Models by Jairo Bambang Oetomo
 white_header: true
 sections:
   - type: hero_section
