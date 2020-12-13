@@ -19,13 +19,5 @@ sections:
     light_title: true
     featured_products:
       - src/pages/products/plant1.md
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
-    cta:
-      title: Discover
-      url: /store
 template: home
 ---
