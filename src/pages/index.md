@@ -6,7 +6,7 @@ sections:
     section_id: hero_section
     background_image: images/IMG_0421.jpg
     content: |
-      # Paper, lasercut, folded and glued together as your favorite animal
+      # Paper, lasercut as your favorite animal
       You can glu it! :)
     actions:
       - title: See all items
