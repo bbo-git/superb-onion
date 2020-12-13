@@ -5,11 +5,9 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/IMG_0421.jpg
-    content: >-
-      # Real, beautiful plants right to your door
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+    content: |
+      # Paper, but folded and glued
+      You can do it! :)
     actions:
       - title: See all items
         url: /store
